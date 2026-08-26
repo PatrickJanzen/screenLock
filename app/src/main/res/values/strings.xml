@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScreenLock</string>
+    <string name="accessibility_service_description">Listens on the local network port 9999 for screen lock commands and locks the screen.</string>
+</resources>

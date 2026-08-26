@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+/*/build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+.idea/modules/
+.idea/workspace.xml
+.idea/caches/
+.idea/libraries/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External MD5 checksums
+*.sha256
+*.md5
+
+# OS-specific files
+.DS_Store
+Thumbs.db

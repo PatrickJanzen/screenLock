@@ -1,5 +1,8 @@
 # ScreenLock
 
+> [!NOTE]
+> This project was created 100% with the Antigravity coding agent powered by Gemini 3.5 Flash.
+
 An Android application that allows you to lock one Android device remotely from another device on the same local network. It works by utilizing a lightweight TCP/UDP networking layer and Android's Accessibility Service API.
 
 ## Features

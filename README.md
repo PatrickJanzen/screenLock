@@ -6,7 +6,7 @@
 An Android application that allows you to lock one Android device remotely from another device on the same local network. It works by utilizing a lightweight TCP/UDP networking layer and Android's Accessibility Service API.
 
 ## Screenshots
-
+(design may differ)
 | Lock Mode | Trigger Mode |
 |---|---|
 | ![Lock Mode](docs/lock_mode.jpg) | ![Trigger Mode](docs/trigger_mode.jpg) |
